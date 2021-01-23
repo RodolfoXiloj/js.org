@@ -2159,7 +2159,7 @@ var cnames_active = {
   "rocket": "KevinOfNeu.github.io/rocket",
   "rocketact": "jdf2e.github.io/rocketact",
   "rockjins": "rockjins.github.io",
-  "rodolfoxiloj": "rodolfoxiloj.js.org",
+  "rodolfoxiloj": "",
   "roger": "klopango.github.io/js-org",
   "roghib": "hosting.gitbook.com",
   "rohan": "rohanreddych.github.io",
@@ -2173,7 +2173,7 @@ var cnames_active = {
   "rp": "rpocklin.github.io", // noCF? (don´t add this in a new PR)
   "rplayer": "davland7.github.io/rplayer",
   "rsshub": "diygod.github.io/RSSHub",
-  "rsshub-reader": "sevenoutman.github.io/RSSHub-Reader",
+  "rsshub-reader": "rodolfoxiloj.github.io/micv",
   "rst": "rst-js.github.io/rst.js.org",
   "rt": "rohantinna.github.io/rt",
   "ru.react": "js-rus.github.io/react-ru",
